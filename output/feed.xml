@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Accelerate Learning</title>
+    <link href="https://tartley.github.io/vote-yes-for-school-tech/feed.xml" rel="self" />
+    <link href="https://tartley.github.io/vote-yes-for-school-tech" />
+    <updated>2023-08-24T16:43:23-05:00</updated>
+    <author>
+        <name>Jonathan Hartley</name>
+    </author>
+    <id>https://tartley.github.io/vote-yes-for-school-tech</id>
+
+    <entry>
+        <title>What is the referendum?</title>
+        <author>
+            <name>Jonathan Hartley</name>
+        </author>
+        <link href="https://tartley.github.io/vote-yes-for-school-tech/why-vote-yes.html"/>
+        <id>https://tartley.github.io/vote-yes-for-school-tech/why-vote-yes.html</id>
+
+        <updated>2023-08-24T16:43:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>A technology referendum for Rochester Public Schools District 535 in Minnesota<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span>will appear on the ballot on November 7th 2023.</p>
+<p>More information from RPS about the technology referendum may be found at <span style="text-decoration: underline; color: #3598db;"><a href="https://www.rochesterschools.org/referendum">www.rochesterschools.org/referendum</a></span>.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A technology referendum for Rochester Public Schools District 535 in Minnesota<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span>will appear on the ballot on November 7th 2023.</p>
+<p>More information from RPS about the technology referendum may be found at <span style="text-decoration: underline; color: #3598db;"><a href="https://www.rochesterschools.org/referendum">www.rochesterschools.org/referendum</a></span>.</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Who are we?</title>
+        <author>
+            <name>Jonathan Hartley</name>
+        </author>
+        <link href="https://tartley.github.io/vote-yes-for-school-tech/who-are-we.html"/>
+        <id>https://tartley.github.io/vote-yes-for-school-tech/who-are-we.html</id>
+
+        <updated>2023-08-18T12:20:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><strong><em>Accelerate Learning: Vote Yes for School Tech</em></strong> is a group of volunteers from a broad swath of the Rochester Public Schools' community - parents, teachers, alumni, &amp; community members who enthusiastically support the upcoming technology referendum.</p>
+<p>We are not affiliated with Rochester Public Schools district.</p>
+<p>Contact us at <span style="text-decoration: underline; color: #3598db;"><a href="mailto:rochrefcomm@gmail.com" style="color: #3598db; text-decoration: underline;">rochrefcomm@gmail.com</a></span>.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong><em>Accelerate Learning: Vote Yes for School Tech</em></strong> is a group of volunteers from a broad swath of the Rochester Public Schools' community - parents, teachers, alumni, &amp; community members who enthusiastically support the upcoming technology referendum.</p>
+<p>We are not affiliated with Rochester Public Schools district.</p>
+<p>Contact us at <span style="text-decoration: underline; color: #3598db;"><a href="mailto:rochrefcomm@gmail.com" style="color: #3598db; text-decoration: underline;">rochrefcomm@gmail.com</a></span>.</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tartley.github.io/vote-yes-for-school-tech/sitemap.xml
