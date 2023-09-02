@@ -1,1 +1,57 @@
-[]
+[
+    {
+        "name": "Nav",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1693663678106,
+                "label": "What referendum?",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1693662547072,
+                "label": "Why vote yes?",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1693663524966,
+                "label": "Why now?",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1693662520026,
+                "label": "Who are we?",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 2,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]

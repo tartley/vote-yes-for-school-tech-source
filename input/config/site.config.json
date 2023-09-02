@@ -22,9 +22,9 @@
         "mediaLazyLoad": 1,
         "versionSuffix": 1,
         "sitemapEnabled": 1,
-        "sitemapAddTags": 1,
-        "sitemapAddAuthors": 1,
-        "sitemapAddHomepage": 1,
+        "sitemapAddTags": false,
+        "sitemapAddAuthors": false,
+        "sitemapAddHomepage": false,
         "sitemapAddExternalImages": 0,
         "sitemapExcludedFiles": "",
         "usePageTitleInsteadItemName": false,
@@ -64,7 +64,7 @@
         "searchMetaDescription": "",
         "metaRobotsSearch": "noindex, follow",
         "postsListingOrderBy": "created_at",
-        "postsListingOrder": "DESC",
+        "postsListingOrder": "ASC",
         "featuredPostsListingOrderBy": "created_at",
         "featuredPostsListingOrder": "DESC",
         "hiddenPostsListingOrderBy": "created_at",
@@ -198,5 +198,5 @@
         }
     },
     "theme": "simple",
-    "syncDate": 1692915460252
+    "syncDate": 1693663774239
 }

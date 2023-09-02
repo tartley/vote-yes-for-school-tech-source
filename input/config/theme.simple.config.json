@@ -3,7 +3,7 @@
         "postsPerPage": 5,
         "tagsPostsPerPage": 5,
         "authorsPostsPerPage": 5,
-        "excerptLength": 45,
+        "excerptLength": "9999",
         "logo": ""
     },
     "customConfig": {
@@ -14,8 +14,8 @@
         "frontGallery": false,
         "heightHero": "40vh",
         "displayHeroImage": true,
-        "uploadHero": "media/website/IMG_20230808_132601770_HDR-trim-33.webp",
-        "uploadHeroAlt": "A large river and waterfall carves through a grassy landscape",
+        "uploadHero": "media/website/kids-using-tablets-from-above.jpg",
+        "uploadHeroAlt": "Four kids use tablets, viewed from above.",
         "uploadHeroCaption": "",
         "textHero": "<h1>Vote Yes</h1>\n<p>for school tech in Rochester, Minnesota.</p>",
         "siteOwner": false,
@@ -113,12 +113,12 @@
     "postConfig": {
         "displayDate": "0",
         "displayAuthor": "0",
-        "displayLastUpdatedDate": 1,
+        "displayLastUpdatedDate": "0",
         "displayTags": 1,
-        "displayShareButtons": 1,
+        "displayShareButtons": "0",
         "displayAuthorBio": "0",
         "displayPostNavigation": 1,
-        "displayRelatedPosts": 1,
+        "displayRelatedPosts": "0",
         "displayComments": 0
     },
     "tagConfig": {
