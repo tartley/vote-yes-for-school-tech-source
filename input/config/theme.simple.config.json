@@ -1,10 +1,10 @@
 {
     "config": {
-        "postsPerPage": 5,
+        "postsPerPage": "10",
         "tagsPostsPerPage": 5,
         "authorsPostsPerPage": 5,
         "excerptLength": "9999",
-        "logo": ""
+        "logo": "media/website/Green-Logo.jpg"
     },
     "customConfig": {
         "pageMargin": "6vw",
@@ -14,10 +14,10 @@
         "frontGallery": false,
         "heightHero": "40vh",
         "displayHeroImage": true,
-        "uploadHero": "media/website/kids-using-tablets-from-above.jpg",
+        "uploadHero": "media/website/kids-using-tablets-from-above-bigger.jpg",
         "uploadHeroAlt": "Four kids use tablets, viewed from above.",
         "uploadHeroCaption": "",
-        "textHero": "<h1>Vote Yes</h1>\n<p>for school tech in Rochester, Minnesota.</p>",
+        "textHero": "<h1>Accelerate Learning</h1>\n<p>Vote yes for school tech in Rochester, Minnesota.</p>",
         "siteOwner": false,
         "tagsTagCount": true,
         "tagsPostCount": true,
@@ -117,7 +117,7 @@
         "displayTags": 1,
         "displayShareButtons": "0",
         "displayAuthorBio": "0",
-        "displayPostNavigation": 1,
+        "displayPostNavigation": "0",
         "displayRelatedPosts": "0",
         "displayComments": 0
     },

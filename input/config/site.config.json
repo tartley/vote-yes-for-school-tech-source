@@ -64,7 +64,7 @@
         "searchMetaDescription": "",
         "metaRobotsSearch": "noindex, follow",
         "postsListingOrderBy": "created_at",
-        "postsListingOrder": "ASC",
+        "postsListingOrder": "DESC",
         "featuredPostsListingOrderBy": "created_at",
         "featuredPostsListingOrder": "DESC",
         "hiddenPostsListingOrderBy": "created_at",
@@ -198,5 +198,5 @@
         }
     },
     "theme": "simple",
-    "syncDate": 1693663774239
+    "syncDate": 1694187967876
 }

@@ -50,6 +50,30 @@
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
+            },
+            {
+                "id": 1694183271095,
+                "label": "Help Out",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 6,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1694183300263,
+                "label": "Donate",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 7,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
             }
         ],
         "maxLevels": "-1"
